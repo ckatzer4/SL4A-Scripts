@@ -1,0 +1,14 @@
+This is a collection of scripts I have written for use by scripting layer for android (SL4A) and python for android (PY4A)
+To install, have SL4A and PY4A installed and copy the scripts into the scripts folder.
+
+CheckForRedHat.py is a simple script that creates a notification of how many Red Hat computers are available in the D. H. Hill Library at NC State University.
+
+FutureSend.py is a really simple script for sending a message at a prescribed time in the future.
+
+GameScore.py keeps track of the names and scores for an idefinite amount of people
+
+GeneralCheckForLinux.py is a generalization of CheckForRedHat.py, allowing the user to see the number of windows or linux computers available at any engineering lab at NC State
+
+other.py is a small script for keeping notes that I also used for other trouble-shooting purposes.
+
+spam.py is a simple script for sending a single message an idefinite number of times to a poor receiver.
